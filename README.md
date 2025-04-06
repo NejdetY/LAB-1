@@ -1,5 +1,6 @@
 # LAB-1
 Explore Azure Synapse Analytics
+
 This repository contains the hands-on implementation of the "Explore Azure Synapse Analytics" lab, a learning module from Microsoft Learn. The main goal of this assignment is to explore and understand the core features of Azure Synapse Analytics, a powerful data integration and big data analytics service provided by Microsoft Azure.
 
 🎯 Objective
